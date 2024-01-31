@@ -6,4 +6,4 @@ I'm all about coding and I'm always on a mission to deliver top-notch solutions.
 
 Can't wait to connect with you and see what opportunities we can cook up together!
 
-Catch you later, Arif Pambudi
+Best Regards, Arif Pambudi
