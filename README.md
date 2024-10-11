@@ -1,9 +1,9 @@
-👋 Hey there, I'm Arif Pambudi, your go-to Python Developer with a bunch of experience in Django and Selenium. Since 2017, I've been knee-deep in developing all sorts of websites using Django.
+👋 Hey there! I'm Arif Pambudi, your friendly Python Developer with a passion for coding, especially with Django and Selenium. Since 2017, I’ve been busy crafting all sorts of websites and web apps, solving challenges, and always aiming for top-quality results.
 
-📫 Wanna chat? Drop me an email at arifpambudi242@gmail.com or ping me on Telegram at t.me/arifpambudi242.
+🚀 Got a project in mind? Feel free to hit me up anytime! You can reach me at: 📧 Email: arifpambudi242@gmail.com
+💬 Telegram: t.me/arifpambudi242
 
-I'm all about coding and I'm always on a mission to deliver top-notch solutions. I get a kick out of solving new challenges and teaming up with others to whip up innovative web applications. Got any questions or projects you want to talk over? Just give me a shout.
+I love collaborating, building cool stuff, and learning something new along the way. Let’s chat and see what awesome things we can create together! 🤝
 
-Can't wait to connect with you and see what opportunities we can cook up together!
-
-Best Regards, Arif Pambudi
+Catch you soon!
+Arif ✌️
